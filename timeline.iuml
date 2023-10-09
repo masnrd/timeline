@@ -29,11 +29,13 @@ Project starts 2023-09-11
 then [Adapt Open Source code to novel algorithms in test framework] lasts 35 days and is colored in YellowGreen/Green 
 
 [Build test framework] starts on 2023-09-18 and lasts 35 days and is colored in YellowGreen/Green 
-then [Test algorithms] lasts 21 days and is colored in YellowGreen/Green 
+then [Test algorithms] lasts 21 days and is colored in YellowGreen/Green
+
 -- Network Communication --
-[Deisgn Communication protocols] starts on 2023-09-18 and lasts 21 days and is colored in Cyan/DeepSkyBlue
-then [Testing methodology] lasts 7 days and is colored in Cyan/DeepSkyBlue
-then [Routing + Testing] lasts 14 days and is colored in Cyan/DeepSkyBlue
+[Research on Comms protocols] starts on 2023-09-18 and lasts 14 days and is colored in Cyan/DeepSkyBlue
+then [Research/Develop Simulation with Comms] lasts 7 days and is colored in Cyan/DeepSkyBlue
+then [Research on Comms protocols (uXRCE-DDS)] lasts 14 days and is colored in Cyan/DeepSkyBlue
+then [Develop Simulation/Testing] lasts 7 days and is colored in Cyan/DeepSkyBlue
 then [Testing with simulation] lasts 14 days and is colored in Cyan/DeepSkyBlue
 
 -- Drone Firmware --
@@ -65,10 +67,12 @@ then [Final Prototype] lasts 7 days and is colored in Gold/GoldenRod
 [Adapt Open Source code to novel algorithms in test framework] is 10% completed
 [Build test framework] is 50% completed
 [Test algorithms] is 0% completed
-[Deisgn Communication protocols] is 90% completed
-[Testing methodology] is 0% completed
-[Routing + Testing] is 0% completed
+[Research on Comms protocols] is 100% completed
+[Research/Develop Simulation with Comms] is 100% completed
+[Research on Comms protocols (uXRCE-DDS)] is 10% completed
+[Develop Simulation/Testing] is 0% completed
 [Testing with simulation] is 0% completed
+
 [Calibration] is 100% completed
 [Test Flight] is 20% completed
 [Test integration code] is 0% completed
