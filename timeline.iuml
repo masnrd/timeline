@@ -1,0 +1,85 @@
+@startgantt
+
+[Week 1] starts on 2023-09-11 and lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 2] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 3] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 4] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 5] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 6] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 7] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 8] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 9] lasts 1 week and is colored in SeaShell/RoyalBlue
+then [Week 10] lasts 1 week and is colored in SeaShell/RoyalBlue
+[Week 2] displays on same row as [Week 1]
+[Week 3] displays on same row as [Week 1]
+[Week 4] displays on same row as [Week 1]
+[Week 5] displays on same row as [Week 1]
+[Week 6] displays on same row as [Week 1]
+[Week 7] displays on same row as [Week 1]
+[Week 8] displays on same row as [Week 1]
+[Week 9] displays on same row as [Week 1]
+[Week 10] displays on same row as [Week 1]
+
+Project starts 2023-09-11
+-- Group Task --
+[Project scope] starts on 2023-09-11 and lasts 7 days
+-- Mapping and Path Planning --
+[Naive path in H3 map] starts on 2023-09-18 and lasts 14 days and is colored in YellowGreen/Green 
+[Research on novel search strategy] starts on 2023-09-18 and lasts 21 days and is colored in YellowGreen/Green 
+then [Adapt Open Source code to novel algorithms in test framework] lasts 35 days and is colored in YellowGreen/Green 
+
+[Build test framework] starts on 2023-09-18 and lasts 35 days and is colored in YellowGreen/Green 
+then [Test algorithms] lasts 21 days and is colored in YellowGreen/Green 
+-- Network Communication --
+[Deisgn Communication protocols] starts on 2023-09-18 and lasts 14 days and is colored in Cyan/DeepSkyBlue
+then [Testing methodology] lasts 7 days and is colored in Cyan/DeepSkyBlue
+then [Routing + Testing] lasts 14 days and is colored in Cyan/DeepSkyBlue
+then [Testing with simulation] lasts 21 days and is colored in Cyan/DeepSkyBlue
+
+-- Drone Firmware --
+[Calibration] starts on 2023-09-18 and lasts 14 days and is colored in HotPink/DeepPink
+then [Test Flight] lasts 28 days and is colored in HotPink/DeepPink
+then [Test integration code] lasts 14 days and is colored in HotPink/DeepPink
+
+-- Drone Hardware --
+[Hardware scope] starts on 2023-09-18 and lasts 42 days and is colored in Fuchsia/FireBrick
+then [CADing for modification to drone] lasts 14 days and is colored in Fuchsia/FireBrick
+
+-- Wi-Fi gun --
+[Prototype testing] starts on 2023-09-18 and lasts 21 days and is colored in Gold/GoldenRod
+then [Research on Wi-Fi, Building, Documentation] lasts 21 days and is colored in Gold/GoldenRod
+then [CST simulation] lasts 7 days and is colored in Gold/GoldenRod
+then [Final Prototype] lasts 7 days and is colored in Gold/GoldenRod
+
+-- Visualisation --
+[Visualisation] starts on 2023-09-18 and lasts 56 days and is colored in Bisque/Khaki
+
+-- Presentations --
+[Mid-term]        starts on 2023-10-9 and lasts 7 days
+[Interim]        starts on 2023-11-13 and lasts 7 days
+
+
+[Project scope] is 100% completed
+[Naive path in H3 map] is 100% completed
+[Research on novel search strategy] is 50% completed
+[Adapt Open Source code to novel algorithms in test framework] is 0% completed
+[Build test framework] is 40% completed
+[Test algorithms] is 0% completed
+[Deisgn Communication protocols] is 90% completed
+[Testing methodology] is 0% completed
+[Routing + Testing] is 0% completed
+[Testing with simulation] is 0% completed
+[Calibration] is 90% completed
+[Test Flight] is 0% completed
+[Test integration code] is 0% completed
+[Hardware scope] is 30% completed
+[CADing for modification to drone] is 0% completed
+[Visualisation] is 20% completed
+[Mid-term] is 0% completed
+[Interim] is 0% completed
+[Prototype testing] is 60% completed
+[Research on Wi-Fi, Building, Documentation] is 0% completed
+[CST simulation] is 0% completed
+[Final Prototype] is 0% completed
+
+@endgantt
