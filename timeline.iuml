@@ -31,10 +31,10 @@ then [Adapt Open Source code to novel algorithms in test framework] lasts 35 day
 [Build test framework] starts on 2023-09-18 and lasts 35 days and is colored in YellowGreen/Green 
 then [Test algorithms] lasts 21 days and is colored in YellowGreen/Green 
 -- Network Communication --
-[Deisgn Communication protocols] starts on 2023-09-18 and lasts 14 days and is colored in Cyan/DeepSkyBlue
+[Deisgn Communication protocols] starts on 2023-09-18 and lasts 21 days and is colored in Cyan/DeepSkyBlue
 then [Testing methodology] lasts 7 days and is colored in Cyan/DeepSkyBlue
 then [Routing + Testing] lasts 14 days and is colored in Cyan/DeepSkyBlue
-then [Testing with simulation] lasts 21 days and is colored in Cyan/DeepSkyBlue
+then [Testing with simulation] lasts 14 days and is colored in Cyan/DeepSkyBlue
 
 -- Drone Firmware --
 [Calibration] starts on 2023-09-18 and lasts 14 days and is colored in HotPink/DeepPink
@@ -61,23 +61,23 @@ then [Final Prototype] lasts 7 days and is colored in Gold/GoldenRod
 
 [Project scope] is 100% completed
 [Naive path in H3 map] is 100% completed
-[Research on novel search strategy] is 50% completed
-[Adapt Open Source code to novel algorithms in test framework] is 0% completed
-[Build test framework] is 40% completed
+[Research on novel search strategy] is 90% completed
+[Adapt Open Source code to novel algorithms in test framework] is 10% completed
+[Build test framework] is 50% completed
 [Test algorithms] is 0% completed
 [Deisgn Communication protocols] is 90% completed
 [Testing methodology] is 0% completed
 [Routing + Testing] is 0% completed
 [Testing with simulation] is 0% completed
-[Calibration] is 90% completed
-[Test Flight] is 0% completed
+[Calibration] is 100% completed
+[Test Flight] is 20% completed
 [Test integration code] is 0% completed
-[Hardware scope] is 30% completed
+[Hardware scope] is 55% completed
 [CADing for modification to drone] is 0% completed
-[Visualisation] is 20% completed
+[Visualisation] is 40% completed
 [Mid-term] is 0% completed
 [Interim] is 0% completed
-[Prototype testing] is 60% completed
+[Prototype testing] is 100% completed
 [Research on Wi-Fi, Building, Documentation] is 0% completed
 [CST simulation] is 0% completed
 [Final Prototype] is 0% completed
